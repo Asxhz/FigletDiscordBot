@@ -1,0 +1,2 @@
+# FigletDiscordBot
+A Figlet Bot
